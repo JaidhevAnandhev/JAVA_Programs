@@ -1,5 +1,17 @@
+
+
+Rest API + SpringBoot:
+-------------
+
+https://www.youtube.com/watch?v=99mxjnzR3Tc
+
+
 Spring Boot:
 --------------------
+
+10 hrs course with JUnit, Mockito, Spring Security, OAuth
+https://www.youtube.com/watch?v=zvR-Oif_nxg
+
 
 https://www.youtube.com/watch?v=zvR-Oif_nxg
 
