@@ -1,0 +1,48 @@
+Spring Boot:
+--------------------
+
+https://www.youtube.com/watch?v=zvR-Oif_nxg
+
+https://www.youtube.com/watch?v=slTUtTSwRKU&list=PLGRDMO4rOGcNSBOJOlrgQqGpIgo6_VZgR
+
+https://www.youtube.com/watch?v=_thI-4AF7M8
+
+https://www.youtube.com/watch?v=QqBl92wZafo
+
+
+Spring Projects:
+----------------------
+
+https://www.youtube.com/watch?v=VR1zoNomG3w
+	- React with SpringBoot
+
+json vs XML
+
+RESTAPI
+
+GRPC
+
+Webservice
+
+JMS
+
+Pub/Sub
+
+GraphQL + ReactJS combo
+
+Diff between the above ?
+
+
+
+Spring Microservices
+---------------------------
+
+https://www.youtube.com/watch?v=mPPhcU7oWDU
+
+https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
+
+ReactJS + Spring
+---------------------
+
+https://www.youtube.com/watch?v=n43h1eJ2EUE&list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr
+
