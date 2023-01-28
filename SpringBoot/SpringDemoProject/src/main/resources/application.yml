@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active:
+      - qa
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    url: jdbc:mysql://localhost:3306/springdatabase-qa
+    password: Jaidhev_2003@sql
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: 'true'
